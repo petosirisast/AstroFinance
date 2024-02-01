@@ -1,2 +1,5 @@
-# AstroFinance
-AstroFinance Trading Systems - Research Development &amp; Validation with Python
+# Astro Finance Trading Systems
+
+## Research Development & Validation
+
+### with Python
